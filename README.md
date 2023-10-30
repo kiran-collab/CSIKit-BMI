@@ -12,4 +12,4 @@ Train given CSI Heatmaps:
 2. Run 'resnet50-csi-pytorch.py' to train with above data.
 
 Train custom CSI Samples: 
-4. To train on custom CSI data, convert CSI .pcap/.dat files using code in Section CSI-Heatmap conversion.
+1. To train on custom CSI data, convert CSI .pcap/.dat files using code in Section CSI-Heatmap conversion.
