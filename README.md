@@ -8,4 +8,4 @@ This is the official implementation for BMEye:BMI using Commodity WiFi for publi
 
 Train CSI Heatmaps:
 1. The dataset folder contains individual class Heatmaps in .zip files. Unzip them and place them there only.
-2. Run 
+2. Run 'resnet50-csi-pytorch.py' to train with above data. 
