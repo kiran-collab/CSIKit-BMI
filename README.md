@@ -1,6 +1,6 @@
 # CSIKit-BMI
 
-This is the official implementation for BMEye:BMI using Commodity WiFi for public health monitoring.
+This is the official implementation for BMEye:Public Health-Oriented Body Mass Index Monitoring using Commodity WiFi
 
 [Paper](https://drive.google.com/file/d/1uPdt7CdH3Zn_0uXA3-Ol2WQ02ktm_pxr/view?usp=drive_link)
 
