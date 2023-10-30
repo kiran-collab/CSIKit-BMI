@@ -8,4 +8,5 @@ This is the official implementation for _BMEye: Public Health-Oriented Body Mass
 
 Train CSI Heatmaps:
 1. The dataset folder contains individual class Heatmaps in .zip files. Unzip them and place them there only.
-2. Run 'resnet50-csi-pytorch.py' to train with above data. 
+2. Run 'resnet50-csi-pytorch.py' to train with above data.
+3. To train on custom CSI data, convert CSI .pcap/.dat files using code in Section CSI-Heatmap conversion.
