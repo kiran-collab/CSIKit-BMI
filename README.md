@@ -7,6 +7,8 @@ Heatmaps in the dataset are 2-D images converted using code in Section CSI-Heatm
 
 ![System_overview](https://github.com/kiran-collab/CSIKit-BMI/assets/75129341/3f5247ee-4578-4411-a27e-04a50d17cf70)
 
+# CSI- Heatmap Conversion
+
 # Train given CSI Heatmaps:
 1. The dataset folder contains individual class Heatmaps in .zip files. Unzip them and place them there only.
 2. Run 'resnet50-csi-pytorch.py' to train with above data.
