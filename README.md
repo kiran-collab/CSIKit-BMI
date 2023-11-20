@@ -7,6 +7,11 @@ Heatmaps in the dataset are 2-D images converted using code in Section CSI-Heatm
 
 ![System_overview](https://github.com/kiran-collab/CSIKit-BMI/assets/75129341/3f5247ee-4578-4411-a27e-04a50d17cf70)
 
+# Requirements
+
+Requirements are given in requirements.txt
+To install all packages and libraries needed, run _pip install -r requirements.txt_
+
 # CSI- Heatmap Conversion
 
 # Train given CSI Heatmaps:
