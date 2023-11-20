@@ -9,7 +9,8 @@ Heatmaps in the dataset are 2-D images converted using code in Section CSI-Heatm
 
 # Requirements
 
-Requirements are given in requirements.txt
+Requirements are given in requirements.txt file 
+
 To install all packages and libraries needed, run _pip install -r requirements.txt_
 
 # CSI- Heatmap Conversion
