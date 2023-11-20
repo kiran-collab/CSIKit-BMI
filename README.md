@@ -1,6 +1,7 @@
 # CSIKit-BMI
 
-This is the official implementation for _BMEye: Public Health-Oriented Body Mass Index Monitoring using Commodity WiFi_ accepted at WF-IoT '23
+This is the official implementation for _BMEye: Public Health-Oriented Body Mass Index Monitoring using Commodity WiFi_ accepted at WF-IoT '23.
+
 Heatmaps in the dataset are 2-D images converted using code in Section CSI-Heatmap conversion.
 
 [[Paper]](https://drive.google.com/file/d/1uPdt7CdH3Zn_0uXA3-Ol2WQ02ktm_pxr/view?usp=drive_link)
