@@ -21,5 +21,5 @@ To install all packages and libraries needed, run _pip install -r requirements.t
 2. Run 'resnet50-csi-pytorch.py' to train with above data.
 
 # ⚡ Train custom CSI Samples: 
-1. To train on custom CSI data, convert CSI .pcap/.dat files using code in Section CSI-Heatmap conversion.
+1. To train on custom CSI data, convert CSI .pcap/.dat files using code in 'CSI-Heatmap conversion' section.
 
