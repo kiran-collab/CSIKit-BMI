@@ -23,7 +23,7 @@ To install all packages and libraries needed, run _pip install -r requirements.t
 # ⚡ Train custom CSI Samples: 
 1. To train on custom CSI data, convert CSI .pcap/.dat files using code in 'CSI-Heatmap conversion' section.
 
-If you use this work, consider citing it:
+If you use this work, please consider citing it:
 
 @INPROCEEDINGS{10539515,
   author={Davuluri, Kiran and Mottakin, Khairul and Song, Zheng and Lu, Jin and Allison, Mark},
