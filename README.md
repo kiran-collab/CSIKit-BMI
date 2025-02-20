@@ -30,15 +30,18 @@ Once a model is trained for the CSI heatmap data, the BMI range for a person can
 2. The CSI data is converted to a heatmap.
 3. The heatmap is predicted for a BMI range as the output.
    
+```
 If you use this work, please consider citing it:
-
-@INPROCEEDINGS{10539515,
+ 
+  @INPROCEEDINGS{10539515,
   author={Davuluri, Kiran and Mottakin, Khairul and Song, Zheng and Lu, Jin and Allison, Mark},
   booktitle={2023 IEEE 9th World Forum on Internet of Things (WF-IoT)}, 
   title={BMEye: Public Health-Oriented Body Mass Index Monitoring Using Commodity WiFi}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Weight measurement;Shape;Sociology;Stability criteria;Sensors;Statistics;Public healthcare;Channel State Information (CSI);WiFi Sensing;Machine Learning;BMI Classification;Public Health},
-  doi={10.1109/WF-IoT58464.2023.10539515}}
+  year={2023}, 
+  volume={}, 
+  number={}, 
+  pages={1-6}, 
+  keywords={Weight measurement;Shape;Sociology;Stability criteria;Sensors;Statistics;Public healthcare;Channel State Information (CSI);WiFi Sensing;Machine Learning;BMI Classification;Public Health}, 
+  doi={10.1109/WF-IoT58464.2023.10539515}
+}
+```
