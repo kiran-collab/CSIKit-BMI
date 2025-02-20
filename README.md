@@ -29,10 +29,10 @@ Once a model is trained for the CSI heatmap data, the BMI range for a person can
 1. when a person walks between the WiFi routers, their CSI data is captured
 2. The CSI data is converted to a heatmap.
 3. The heatmap is predicted for a BMI range as the output.
-   
-```
+
 If you use this work, please consider citing it:
- 
+
+```
   @INPROCEEDINGS{10539515,
   author={Davuluri, Kiran and Mottakin, Khairul and Song, Zheng and Lu, Jin and Allison, Mark},
   booktitle={2023 IEEE 9th World Forum on Internet of Things (WF-IoT)}, 
