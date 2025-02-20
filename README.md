@@ -23,6 +23,13 @@ To install all packages and libraries needed, run _pip install -r requirements.t
 # ⚡ Train custom CSI Samples: 
 1. To train on custom CSI data, convert CSI .pcap/.dat files using code in 'CSI-Heatmap conversion' section.
 
+# BMI Output
+
+Once a model is trained for the CSI heatmap data, the BMI range for a person can be obtained in real-time. This is possible with the following steps:
+1. when a person walks between the WiFi routers, their CSI data is captured
+2. The CSI data is converted to a heatmap.
+3. The heatmap is predicted for a BMI range as the output.
+   
 If you use this work, please consider citing it:
 
 @INPROCEEDINGS{10539515,
